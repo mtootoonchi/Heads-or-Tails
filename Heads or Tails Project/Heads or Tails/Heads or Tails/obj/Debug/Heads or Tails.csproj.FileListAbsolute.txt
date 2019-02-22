@@ -1,0 +1,15 @@
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe.config
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.pdb
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csprojAssemblyReference.cache
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\MainWindow.g.cs
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\App.g.cs
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails_MarkupCompile.cache
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails_MarkupCompile.lref
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\MainWindow.baml
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.g.resources
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads_or_Tails.Properties.Resources.resources
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.GenerateResource.cache
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.CoreCompileInputs.cache
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.exe
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\Heads or Tails Project\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.pdb
