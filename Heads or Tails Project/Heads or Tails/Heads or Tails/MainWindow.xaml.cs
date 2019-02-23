@@ -20,7 +20,7 @@ namespace Heads_or_Tails
     /// </summary>
     public partial class MainWindow : Window
     {
-        //System.Media.SoundPlayer player = new System.Media.SoundPlayer("coinflip.wav");
+        System.Media.SoundPlayer player = new System.Media.SoundPlayer("coinflip.wav");
         Random ran = new Random();
         public MainWindow()
         {
@@ -29,7 +29,7 @@ namespace Heads_or_Tails
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //player.Play();
+            player.Play();
             if(ran.Next(0, 2) == 0)
             {
                 ans.Content = "Heads";
